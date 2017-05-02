@@ -1,8 +1,9 @@
 package termt
 
 import (
-	"terminator"
 	"time"
+
+	"github.com/WhisperingChaos/terminator"
 )
 
 func Auto(term terminator.I, wait time.Duration) {
