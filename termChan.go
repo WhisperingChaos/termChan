@@ -6,7 +6,8 @@ import (
 	"os"
 	"os/signal"
 	"sync"
-	"terminator"
+
+	"github.com/WhisperingChaos/terminator"
 )
 
 /*
